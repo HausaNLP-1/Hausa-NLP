@@ -1,2 +1,5 @@
-# Hausa-NLP
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#hausa-nlp)
+
+# ➤ Hausa-NLP
 HausaNLP landing page
