@@ -5,6 +5,8 @@
 
 HausaNLP is a natural language processing group for Hausa language. We aim to put Hausa on the NLP map. We are group of enthutuastc and reseracherser. 
 
+Website: hausanlp.github.io
+
 You you want get involved? reach out here via any of these channels
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
@@ -18,27 +20,42 @@ If you’d like to follow along with any code changes to the library, please joi
 
 - hausanlp@gmail.com
 
-## Mission
+# How can I Join and contribute?
 
 
-## Vision
+Want more details? Check out our current initiatives
 
+# Progress
 
-## Published Hausa papers
+- See published hausa
+- Read our weekly meeting notes
+- Look at our list of community documents
+- Follow our publication on Medium
+- Check out papers written by our participants here
+
+# How do I join?
+
+1. Join our Slack
+2.  Request to join our Google Group
+3. This is so we can feature you on our webpage masakhane. Please email the following to masakhanetranslation@gmail.com:
+   1. Your Full Name
+   2. A preferred social media link
+   3. The language(s) you'll be working on (or your general relevant specialty - if you're an expert at machine translation and - would like to boost the community through that)
+   4. A picture
+   5. Your affiliation and role.
+
+## Hausa papers by HausaNLP and collaborators
 
 -  Embedding
 -  NER
 -  Sentiment 
--  
-
 
 
 ## Hausa Language Resources
 
-
-
-
-## 
+- sentiment lexicon
+- Hausa Corpus
+- Translated Sentiment Lexicon to Hausa language
 
 
 
