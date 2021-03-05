@@ -10,7 +10,7 @@ You you want get involved? reach out here via any of these channels
 ![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Hausa-NLP?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hausa-NLP.Hausa-NLP)
-[<img src="https://img.shields.io/badge/slack-@oresoftware/npp-yellow.svg?logo=slack">](https://oresoftware.slack.com/messages/CCAD1H94G) 
+
 
 If you’d like to follow along with any code changes to the library, please join the Hausa-NLP Slack channel. [Click here to join our Slack community!](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA)
 
