@@ -5,9 +5,11 @@
 
 HausaNLP is a natural language processing group for Hausa language. We aim to put Hausa on the NLP map. We are group of enthutuastc and reseracherser. 
 
-Website: hausanlp.github.io
+Website: hausanlp.github.io     
+Email: hausanlp@gmail.com
 
 You you want get involved? reach out here via any of these channels
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Hausa-NLP?style=social)
@@ -18,9 +20,9 @@ If you’d like to follow along with any code changes to the library, please joi
 
 #### Reach out directly via email: 
 
-- hausanlp@gmail.com
 
-# How can I Join and contribute?
+
+# How can contribute?
 
 
 Want more details? Check out our current initiatives
@@ -37,7 +39,7 @@ Want more details? Check out our current initiatives
 
 1. Join our Slack
 2.  Request to join our Google Group
-3. This is so we can feature you on our webpage masakhane. Please email the following to masakhanetranslation@gmail.com:
+3. This is so we can feature you on our webpage masakhane. Please email the following to hausanlp@gmail.com:
    1. Your Full Name
    2. A preferred social media link
    3. The language(s) you'll be working on (or your general relevant specialty - if you're an expert at machine translation and - would like to boost the community through that)
