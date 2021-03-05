@@ -3,3 +3,16 @@
 
 # ➤ Hausa-NLP
 HausaNLP landing page
+
+
+{
+  "name": "@appnest/readme"
+}
+
+
+{
+  "logo": {
+    "src": "https://raw.githubusercontent.com/andreasbm/readme/master/assets/logo-shadow.png",
+    "width": "150"
+  }
+}
