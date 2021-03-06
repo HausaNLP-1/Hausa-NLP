@@ -28,16 +28,14 @@ Website: hausanlp.github.io
 Email: hausanlp@gmail.com
 
 
-This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
+This document (the README file) is a hub to give you some information about Hausa-NLP project. Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
-- [Hausa-NLP  Open Community](#hausa-nlp--open-community)
   - [Welcome!](#welcome)
-  - [Table of Contents](#table-of-contents)
-  - [What are we doing?](#what-are-we-doing)
+  - [Who are we? What are we doing?](#What-are-we-doing)
   - [How can you get involved?](#how-can-you-get-involved)
-  - [Latest Hausa papers by HausaNLP and collaborators](#latest-hausa-papers-by-hausanlp-and-collaborators)
+  - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
   - [Hausa Language Resource](#hausa-language-resource)
   - [Meeting Notes](#meeting-notes)
   - [Latest Hausa Blog post](#latest-hausa-blog-post)
@@ -49,27 +47,26 @@ This document (the README file) is a hub to give you some information about the 
 
 ## What are we doing?
 
-We are group of researchers 
+We are group of academics, researchers, students, mL-engineeers, and NLP ethustiatc with passion for Hausa natural language processing. 
+
+We are an open source community that develop Hausa language resources and promotes Hausa natural language processing research and collaboration.
 
 
-- ## Who are we
-
-We are group of academics, researchers, students, mL-engineeers and NLP ethustiatc that ...
 
 ## How can you get involved?
 
+If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
+
+
    - Join our WhatsApp
-   - Join  our Slack
-   - Join our Google group
-   - Want be featured on our website? send us your details via hausanlp@gmail.com. [This is sample information needed](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
-
-
-If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
+   - Join  our [Slack](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA)
+   - Join our [Google group](hausa-nlp@googlegroups.com)
+   - Want be featured on our website? send us your details via hausanlp@gmail.com and use this as [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 
-## Latest Hausa papers by HausaNLP and collaborators
+## our-papers
 
  - Sentiment Analysis
  - Hate Speech Detection
@@ -98,11 +95,11 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 ## Thank you
 
-Thank you so much (Danke schön! Merci beaucoup!) for visiting the project and we do hope that you'll join us on this amazing journey to support women and other under-represented groups in STEMM.
+Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support Hausa natural language processing.
 
 ## Glossary
 
-* **Hausa**:  a language spoken in Nigeria
+* **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
 * **README file**: a document that introduces an open project to the public and any potential contributors
 * **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
 * **Roadmap**: a document outlining the schedule of work to be done on a project
