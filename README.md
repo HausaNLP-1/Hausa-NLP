@@ -26,6 +26,7 @@ HausaNLP is a natural language processing group for Hausa language. We aim to pu
 
 Website: hausanlp.github.io   
 Email: hausanlp@gmail.com
+  - [Meeting Notes](#meeting-notes)
 
 
 This document (the README file) is a hub to give you some information about Hausa-NLP project. Jump straight to one of the sections below, or just scroll down to find out more.
@@ -37,11 +38,10 @@ This document (the README file) is a hub to give you some information about Haus
   - [How can you get involved?](#how-can-you-get-involved)
   - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
   - [Hausa Language Resource](#hausa-language-resource)
-  - [Meeting Notes](#meeting-notes)
   - [Latest Hausa Blog post](#latest-hausa-blog-post)
+  - [Meeting Notes](#meeting-notes)
   - [Maintainers (Hall of Fame)](#maintainers-hall-of-fame)
   - [Contact us](#contact-us)
-  - [Thank you](#thank-you)
   - [Glossary](#glossary)
   
 
@@ -86,12 +86,16 @@ Please note that it's very important to us that we maintain a positive and suppo
 ## Latest Hausa Blog post
 
 
+<!-- TODO: Add last video link 
+
 ## Maintainers (Hall of Fame)
+
+-->
 
 
 ## Contact us
 
-If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Kirstie][link_kirstiejane] by email (kw401 AT cam DOT ac DOT uk) or on [twitter](https://twitter.com/kirstie_j).
+If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact us by email (hausanlp AT gmail DOT com) or on [twitter](https://twitter.com/hausanlp).
 
 ## Thank you
 
